@@ -9,7 +9,7 @@ It has microservices architecture using amqp protocol with [RabbitMQ](https://ww
 
 # Architecture
 
-![Architecture project](docs\images\arch.png)
+![Architecture project](docs/images/arch.png)
 
 ## Stack
 
