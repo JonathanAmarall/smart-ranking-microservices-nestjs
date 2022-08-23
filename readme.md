@@ -7,6 +7,10 @@ This project was developed in the course
 
 It has microservices architecture using amqp protocol with [RabbitMQ](https://www.rabbitmq.com/) for communication and [mongodb](https://www.mongodb.com/pt-br) for data persistence.
 
+# Architecture
+
+![Architecture project](docs\images\arch.png)
+
 ## Stack
 
-**Back-end:** Node, NestJS, Rabbitmq, MongoDB
+**Back-end:** Node, NestJS, Rabbitmq, MongoDB, S3 Aws
